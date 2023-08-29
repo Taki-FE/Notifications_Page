@@ -208,5 +208,6 @@ img {
   .wrapper {
     height: fit-content;
     width: fit-content;
+    padding: 16px 8px;
   }
 }
